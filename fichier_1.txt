@@ -1,1 +1,2 @@
 une prelière ligne dans fichier_1
+une deuxième ligne dans fichier_1
